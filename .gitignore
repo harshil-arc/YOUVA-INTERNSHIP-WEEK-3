@@ -1,0 +1,14 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.out
+*.bin
+*.elf
+*.hex
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
